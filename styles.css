@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.title{
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+}
+
+.name{
+    font-family: Impact;
+    font-size: 20px;
+    margin: 50px;
+}
+
+.skill{
+    font-family: Arial;
+    margin: 40px;
+}
+
+hr{
+    margin: 25px;
+}
